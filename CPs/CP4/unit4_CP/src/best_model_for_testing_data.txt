@@ -1,0 +1,11 @@
+Best model for K = 1, best_seed = 7001, test_score_per_pixel = -0.1735512655397308
+Best model for K = 4, best_seed = 7001, test_score_per_pixel = 0.25146325191781593
+Best model for K = 8, best_seed = 7001, test_score_per_pixel = 0.35610892017058093
+Best model for K = 16, best_seed = 7001, test_score_per_pixel = 0.4063859441382443
+
+
+
+****Best model for K = 1, best_seed = 1001, test_score_per_pixel = -0.1735512655397308
+****Best model for K = 4, best_seed = 3001, test_score_per_pixel = 0.2984793634667843
+****Best model for K = 8, best_seed = 3001, test_score_per_pixel = 0.37951277418885787
+****Best model for K = 16, best_seed = 7001, test_score_per_pixel = 0.4063859441382443
